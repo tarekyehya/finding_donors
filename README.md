@@ -1,2 +1,2 @@
 # finding_donors
-Udacity ML cross skills nanodegree project
+Udacity ML cross skills nanodegree final project
